@@ -4,7 +4,7 @@
 
 When complete, Fletchpad will become an archery scoring app, intergrated with a custom Tensorflow Lite Object Recognition Model, ***and yes, I know that is a mouthful.*** It is being created as a passion project and a chance for me to learn new techniques and Android Development.
 
-![Fletchapp Logo](FletchappLogo.png)
+![Fletchapp Logo](FletchappLogo-removebg-preview.png)
 
 # What Platforms will Fletchpad work on?
 
