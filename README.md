@@ -6,6 +6,10 @@ When complete, Fletchapp will become an archery scoring app, intergrated with a 
 
 ![Fletchapp Logo](New_Logo-removebg-preview-removebg-preview.png)
 
+# Join the Discord!
+
+https://discord.gg/bWsmsbtgye
+
 # What Platforms will Fletchpad work on?
 
 - Android (Confirmed)
