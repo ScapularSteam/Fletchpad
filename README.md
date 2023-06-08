@@ -2,9 +2,13 @@
 
 # What is Fletchapp?
 
-When complete, Fletchapp will become an archery scoring app, intergrated with a custom Tensorflow Lite Object Recognition Model, ***and yes, I know that is a mouthful.*** It is being created as a passion project and a chance for me to learn new techniques and Android Development.
+When complete, Fletchapp will become an archery scoring app, intergrated with a custom Tensorflow Lite Object Recognition Model, ***and yes, I know that is a mouthful.*** It is being created as a passion project and a chance for me to learn new techniques, languages, and Android Development.
 
 ![Fletchapp Logo](New_Logo-removebg-preview-removebg-preview.png)
+
+# Join the Discord!
+
+https://discord.gg/bWsmsbtgye
 
 # What Platforms will Fletchpad work on?
 
