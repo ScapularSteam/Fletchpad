@@ -1,43 +1,70 @@
+
 # Fletchapp
 
-# What is Fletchapp?
+An archery scoring app, automated with Machine Learning.
 
-When complete, Fletchapp will become an archery scoring app, intergrated with a custom Tensorflow Lite Object Recognition Model, ***and yes, I know that is a mouthful.*** It is being created as a passion project and a chance for me to learn new techniques, languages, and Android Development.
+## Features
 
-![Fletchapp Logo](New_Logo-removebg-preview-removebg-preview.png)
+- Automatic detection and scoring of arrows from an image.
 
-# Join the Discord!
+- A variety of statistics available during a shoot.
 
-https://discord.gg/bWsmsbtgye
+- Tips and tricks to help you get the most out of your shoots.
 
-# What Platforms will Fletchpad work on?
+- Designed with dark mode and Material You in mind.
+## Marketing
 
-- Android (Confirmed)
-- IOS (Unknown)*
-
-*As of now, Fletchapp is only intended for the Android audiance, and will be built to the Material3 guidelines. This being said, TensorFlow Lite models can be run on IOS, so the Arrow recogntion model could be ported, however I do not own an Apple Device for testing, so this may be rather difficult as of now.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-# Does this software come with any kind of guarentee or licence?
+## Tools and Languages used
 
-*Absolutly not, this software (Fletchapp) is provided with absolutly no guarentees whatsoever.*
+**App:** Kotlin/Java (unknown at this time), Material You, Android Studio
 
-For more information, please refer to the following licence:
-
->THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
->EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
->MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
->IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
->OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
->ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
->OTHER DEALINGS IN THE SOFTWARE.
+**ML:** Python, Tensorflow Lite, Visual Studio Code
 
 
-# When will this software be released?
+## FAQ
 
-At this moment, the relese data is unknown, as this software is in the mockup phase of development, please see the Wiki for more information
+#### What platforms will be supported at launch?
+
+At launch, only Android will be supported. This is due to the additional complexities faced with developing for IOS devices, coupled with the fact that I do not own devices for testing purposes.
+
+#### What are the minimum requirements?
+
+At this time, the minimum requirements will consist of a device running Android 11 or newer. 
+
+This version has been chosen to strike a balance between compatability, as 61.9%* of devices run Android 11 or newer, and features provided through API level 30, such as systemwide Dark Mode, and a variety of new security features
+
+#### When will the app release?
+
+At the moment, Fletchapp is a concept, and so should be treated like any other vapourware product. I (the developer), make no guarentee that this product will release to the public.
 
 
-# Where can I find a current roadmap?
+* For more information regarding API levels, please see https://apilevels.com/#fn:1 (The information regarding compatability is valid as of May 6, 2023, when the figures were last updated)
 
-Please see here: [Fletchpad Wiki](https://github.com/ScapularSteam/Fletchpad/wiki)
+
+
+## Challenges to Come
+
+Ultimately I am using the project as a means to learn new skills as a student. As such, I am unsure if I will be able to attain the knowledge needed to create this app.
+
+Some of the skills I still need to learn include:
+
+- Labeling and pre-processing images for a dataset.
+- Training a custom image segmentation model using Tensorflow.
+- Creating a Material You themed Android app.
+- Creating an intuitive user experiance.
+- Marketing and releasing a product.
+## License
+
+I am still deciding on a license to use. Until I have chosen one that is more suitable;
+
+```This project uses a Creative Commons CC BY-NC-ND License```
+
+``` More information can be found at https://creativecommons.org/licenses/by-nc-nd/4.0/```
+
+
+## Roadmap
+
+For a complete roadmap, please visit:
