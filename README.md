@@ -3,6 +3,11 @@
 
 An archery scoring app, automated with Machine Learning.
 
+
+
+
+![Example](https://github.com/ScapularSteam/Fletchpad/blob/main/Fletchworks%20Assets/Carousel%20Images.png)
+
 ## Features
 
 - Automatic detection and scoring of arrows from an image.
@@ -14,7 +19,7 @@ An archery scoring app, automated with Machine Learning.
 - Designed with dark mode and Material You in mind.
 ## Marketing
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ScapularSteam/Fletchpad/blob/main/Fletchworks%20Assets/1.png)
 
 
 ## Tools and Languages used
